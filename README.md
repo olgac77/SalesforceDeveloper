@@ -1,3 +1,5 @@
+Scenario description from https://trailhead.salesforce.com/content/learn/superbadges/superbadge_apex
+
 Superbadge
 Apex Specialist
 Use integration and business logic to push your Apex coding skills to the limit.
