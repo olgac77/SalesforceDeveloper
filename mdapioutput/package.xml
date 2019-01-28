@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>ApexClass</name>
+    <members>MaintenanceRequestHelper</members>
+    <members>MaintenanceRequestTest</members>
+    <members>WarehouseCalloutService</members>
+    <members>WarehouseCalloutServiceMock</members>
+    <members>WarehouseCalloutServiceTest</members>
+    <members>WarehouseSyncSchedule</members>
+  </types>
+  <types>
+    <name>Layout</name>
+    <members>Case-Case Layout</members>
+    <members>Product2-Product %28HowWeRoll%29 Layout</members>
+    <members>Product2-Product Layout</members>
+    <members>Vehicle__c-Vehicle Layout</members>
+    <members>Work_Part__c-Work Part Layout</members>
+  </types>
+  <types>
+    <name>CustomField</name>
+    <members>Case.Date_Due__c</members>
+    <members>Case.Date_Reported__c</members>
+    <members>Case.Equipment__c</members>
+    <members>Case.Type</members>
+    <members>Case.Vehicle__c</members>
+    <members>Product2.Cost__c</members>
+    <members>Product2.Current_Inventory__c</members>
+    <members>Product2.Lifespan_Months__c</members>
+    <members>Product2.Maintenance_Cycle__c</members>
+    <members>Product2.Replacement_Part__c</members>
+    <members>Product2.Warehouse_SKU__c</members>
+    <members>Vehicle__c.Air_Conditioner__c</members>
+    <members>Vehicle__c.Awning__c</members>
+    <members>Vehicle__c.Backup_Camera_Monitor__c</members>
+    <members>Vehicle__c.Bathroom_Hookup__c</members>
+    <members>Vehicle__c.Bathrooms__c</members>
+    <members>Vehicle__c.Bedrooms__c</members>
+    <members>Vehicle__c.Fancy_Sound_System__c</members>
+    <members>Vehicle__c.Generator__c</members>
+    <members>Vehicle__c.Levelers__c</members>
+    <members>Vehicle__c.License_Plate__c</members>
+    <members>Vehicle__c.Make__c</members>
+    <members>Vehicle__c.Model__c</members>
+    <members>Vehicle__c.Power__c</members>
+    <members>Vehicle__c.Propane_Tank__c</members>
+    <members>Vehicle__c.Recommended_Passengers__c</members>
+    <members>Vehicle__c.Roof_Mounted_Antenna__c</members>
+    <members>Vehicle__c.Shower__c</members>
+    <members>Vehicle__c.Tub__c</members>
+    <members>Vehicle__c.Type__c</members>
+    <members>Vehicle__c.VIN_Number__c</members>
+    <members>Work_Part__c.Equipment__c</members>
+    <members>Work_Part__c.Maintenance_Request__c</members>
+    <members>Work_Part__c.Quantity__c</members>
+  </types>
+  <types>
+    <name>ListView</name>
+    <members>Vehicle__c.All</members>
+  </types>
+  <types>
+    <name>CustomObject</name>
+    <members>Vehicle__c</members>
+    <members>Work_Part__c</members>
+  </types>
+  <types>
+    <name>CustomObjectTranslation</name>
+    <members>Case-en_US</members>
+    <members>Product-en_US</members>
+  </types>
+  <types>
+    <name>Profile</name>
+    <members>Admin</members>
+    <members>Custom%3A Marketing Profile</members>
+    <members>Custom%3A Sales Profile</members>
+    <members>Custom%3A Support Profile</members>
+  </types>
+  <types>
+    <name>RemoteSiteSetting</name>
+    <members>Warehouse</members>
+  </types>
+  <types>
+    <name>StandardValueSet</name>
+    <members>CaseType</members>
+  </types>
+  <types>
+    <name>CustomTab</name>
+    <members>Vehicle__c</members>
+  </types>
+  <types>
+    <name>ApexTrigger</name>
+    <members>MaintenanceRequest</members>
+  </types>
+  <version>44.0</version>
+</Package>

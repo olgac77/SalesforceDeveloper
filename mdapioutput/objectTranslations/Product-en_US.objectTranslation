@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Equipment</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Equipment</value>
+    </caseValues>
+    <startsWith>Vowel</startsWith>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Order Equipment</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Order Equipment</value>
+        </caseValues>
+        <name>order_product</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Order Equipment ID</value>
+        </caseValues>
+        <name>order_product_id</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Order Equipment Number</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Order Equipment Numbers</value>
+        </caseValues>
+        <name>order_product_number</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment Access</value>
+        </caseValues>
+        <name>product_access</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment Access Level</value>
+        </caseValues>
+        <name>product_access_level</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment Amount</value>
+        </caseValues>
+        <name>product_amount</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment Catalog</value>
+        </caseValues>
+        <name>product_catalog</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment Code</value>
+        </caseValues>
+        <name>product_code</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment Currency</value>
+        </caseValues>
+        <name>product_currency</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment Custom Field</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Equipment Custom Fields</value>
+        </caseValues>
+        <name>product_custom_field</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment Date</value>
+        </caseValues>
+        <name>product_date</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment Description</value>
+        </caseValues>
+        <name>product_description</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment Detail</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Equipment Details</value>
+        </caseValues>
+        <name>product_detail</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Expected Equipment Amount</value>
+        </caseValues>
+        <name>product_expected_product_amount</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment Family</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Equipment Families</value>
+        </caseValues>
+        <name>product_family</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment Field</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Equipment Fields</value>
+        </caseValues>
+        <name>product_field</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment Forecast Category</value>
+        </caseValues>
+        <name>product_forecast_category</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment History</value>
+        </caseValues>
+        <name>product_history</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment Stage ID</value>
+        </caseValues>
+        <name>product_history_id</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment ID</value>
+        </caseValues>
+        <name>product_id</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment Information</value>
+        </caseValues>
+        <name>product_information</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment Link</value>
+        </caseValues>
+        <name>product_link</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment Name</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Equipment Names</value>
+        </caseValues>
+        <name>product_name</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment Price</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Equipment Prices</value>
+        </caseValues>
+        <name>product_price</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment Record Type</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Equipment Record Types</value>
+        </caseValues>
+        <name>product_record_type</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment Report</value>
+        </caseValues>
+        <name>product_report</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment Schedule</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Equipment Schedules</value>
+        </caseValues>
+        <name>product_schedule</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment Selection</value>
+        </caseValues>
+        <name>product_selection</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment SKU</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Equipment SKUs</value>
+        </caseValues>
+        <name>product_sku</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment Stage ID</value>
+        </caseValues>
+        <name>product_stage_id</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment Total Price</value>
+        </caseValues>
+        <name>product_total_price</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment Update</value>
+        </caseValues>
+        <name>product_update</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Equipment View</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Equipment Views</value>
+        </caseValues>
+        <name>product_view</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+</CustomObjectTranslation>

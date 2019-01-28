@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Maintenance Request</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Maintenance Requests</value>
+    </caseValues>
+    <layouts>
+        <layout>Case (HowWeRoll) Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- HowWeRoll Service Details --></label>
+            <section>HowWeRoll Service Details</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- LogACall --></label>
+        <name>LogACall</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewChildCase --></label>
+        <name>NewChildCase</name>
+    </quickActions>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

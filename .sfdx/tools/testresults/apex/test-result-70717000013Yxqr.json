@@ -1,0 +1,46 @@
+{
+    "summary": {
+        "outcome": "Passed",
+        "testsRan": 1,
+        "passing": 1,
+        "failing": 0,
+        "skipped": 0,
+        "passRate": "100%",
+        "failRate": "0%",
+        "testStartTime": "Jan 27, 2019 9:08 PM",
+        "testExecutionTime": "6178 ms",
+        "testTotalTime": "6178 ms",
+        "commandTime": "16975 ms",
+        "hostname": "https://fun-fun-7884-dev-ed.cs22.my.salesforce.com/",
+        "orgId": "00D17000000522qEAA",
+        "username": "test-w6tb32esshqr@example.com",
+        "testRunId": "70717000013Yxqr",
+        "userId": "00517000002RNT3AAO"
+    },
+    "tests": [
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v44.0/tooling/sobjects/ApexTestResult/07M17000003T9jUEAS"
+            },
+            "Id": "07M17000003T9jUEAS",
+            "QueueItemId": "70917000000gmtpAAA",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "70717000013YxqrAAC",
+            "MethodName": "testCaseUpdate",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v44.0/tooling/sobjects/ApexClass/01p17000001Zcq8AAC"
+                },
+                "Id": "01p17000001Zcq8AAC",
+                "Name": "MaintenanceRequestTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 6178,
+            "FullName": "MaintenanceRequestTest.testCaseUpdate"
+        }
+    ]
+}

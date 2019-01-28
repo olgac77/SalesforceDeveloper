@@ -1,0 +1,2713 @@
+[
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548694173097,
+            "changeTime": 1548632292911,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548632292911,
+            "changeTime": 1548632292911,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548690223982,
+            "changeTime": 1548690223982,
+            "contentHash": "5fc90a227dc14df39852e3a825bb6b3b4fe55709",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548632292911,
+            "changeTime": 1548632292911,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548694201716,
+            "changeTime": 1548694201716,
+            "isWorkspace": true,
+            "contentHash": "108099610b04fc832e6e56fe6f02da2ddca348c0"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\Product-en_US.objectTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\Product-en_US.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 372,
+            "modifiedTime": 1548633516281,
+            "changeTime": 1548633516281,
+            "contentHash": "1817037532fa1046d8f58635194f1351d7d7ee2a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\order_product.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\order_product.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 413,
+            "modifiedTime": 1548633516282,
+            "changeTime": 1548633516282,
+            "contentHash": "27d8b06a09278b038a5765f5bb40243e8a428da1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\order_product_id.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\order_product_id.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 315,
+            "modifiedTime": 1548633516283,
+            "changeTime": 1548633516283,
+            "contentHash": "9efb3185567620d57818e78a6a1701eabcb27198",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\order_product_number.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\order_product_number.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 435,
+            "modifiedTime": 1548633516285,
+            "changeTime": 1548633516285,
+            "contentHash": "79de42119736351fb4a5a1ea566dd504b6f5191c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_access.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_access.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 311,
+            "modifiedTime": 1548633516287,
+            "changeTime": 1548633516287,
+            "contentHash": "9e382ea96c066ae0d4d125fb088c80d7190ea9a1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_access_level.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_access_level.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 323,
+            "modifiedTime": 1548633516288,
+            "changeTime": 1548633516288,
+            "contentHash": "6cd23c21afb95c48a417cbf6cd20af3e942b3ac4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_amount.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_amount.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 311,
+            "modifiedTime": 1548633516289,
+            "changeTime": 1548633516289,
+            "contentHash": "86fb085bc29d6905df96574d30ae23bddde459da",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_catalog.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_catalog.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 313,
+            "modifiedTime": 1548633516291,
+            "changeTime": 1548633516291,
+            "contentHash": "7522975aa2f3e8897760071d059fb8be9eb444b7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_code.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_code.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 307,
+            "modifiedTime": 1548633516292,
+            "changeTime": 1548633516292,
+            "contentHash": "caf2b5ae3602d68d7d58c99500341caccde91b47",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_currency.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_currency.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 315,
+            "modifiedTime": 1548633516293,
+            "changeTime": 1548633516293,
+            "contentHash": "7dfe3f83ce511ba1bf779084b7b27778efb482a2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_custom_field.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_custom_field.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 435,
+            "modifiedTime": 1548633516295,
+            "changeTime": 1548633516295,
+            "contentHash": "15e727ada27002a2550d9d38694e31f9b531b43f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_date.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_date.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 307,
+            "modifiedTime": 1548633516296,
+            "changeTime": 1548633516296,
+            "contentHash": "f92a30552b08b41ccfeca8f4788f546d60d67a85",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_description.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_description.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 321,
+            "modifiedTime": 1548633516297,
+            "changeTime": 1548633516297,
+            "contentHash": "f8821fa7f33c79a722fbc6ab359cda4c618c66cb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_detail.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_detail.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 417,
+            "modifiedTime": 1548633516299,
+            "changeTime": 1548633516299,
+            "contentHash": "596063eb2f6e82679db3e3142326c20d73e8577e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_expected_product_amount.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_expected_product_amount.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 337,
+            "modifiedTime": 1548633516300,
+            "changeTime": 1548633516300,
+            "contentHash": "056abacc01d8bb53810e410dad9a04cdac22ab8b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_family.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_family.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 418,
+            "modifiedTime": 1548633516302,
+            "changeTime": 1548633516302,
+            "contentHash": "4879ad30a4fa739b27dc595821d6a91c1220b456",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_field.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_field.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 414,
+            "modifiedTime": 1548633516304,
+            "changeTime": 1548633516304,
+            "contentHash": "a03112a3369351c6c0c7b89bc5260f5fda82c94c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_forecast_category.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_forecast_category.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 333,
+            "modifiedTime": 1548633516306,
+            "changeTime": 1548633516306,
+            "contentHash": "9d16a5bbc242be7d21ea6bfecf6cdc79cab87a3d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_history.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_history.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 313,
+            "modifiedTime": 1548633516308,
+            "changeTime": 1548633516308,
+            "contentHash": "961dad3d7ffe1e0b687e37fe972fdba0690f1afa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_history_id.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_history_id.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 317,
+            "modifiedTime": 1548633516310,
+            "changeTime": 1548633516310,
+            "contentHash": "36dbb4361b8e4e8faad3c13095022461b89ac912",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_id.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_id.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 303,
+            "modifiedTime": 1548633516311,
+            "changeTime": 1548633516311,
+            "contentHash": "abb0b5dade7c2b766493af16b9f55b5049c65ea2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_information.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_information.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 321,
+            "modifiedTime": 1548633516313,
+            "changeTime": 1548633516313,
+            "contentHash": "7c5e53ef4845e639613a6d662ad92fcbdb877530",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_link.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_link.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 307,
+            "modifiedTime": 1548633516315,
+            "changeTime": 1548633516315,
+            "contentHash": "c3ae1301c1dafa278add45e00abcd4141932e5a7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_name.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_name.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 411,
+            "modifiedTime": 1548633516317,
+            "changeTime": 1548633516317,
+            "contentHash": "ef7a773b479fd8853f54f66319365544f813b052",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_price.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_price.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 414,
+            "modifiedTime": 1548633516318,
+            "changeTime": 1548633516318,
+            "contentHash": "37223d9a9e87300ebeab2833fc917b5e3e7534e3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_record_type.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_record_type.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 432,
+            "modifiedTime": 1548633516320,
+            "changeTime": 1548633516320,
+            "contentHash": "47877411380d48e10c47aadfc69c33ef2fa53b03",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_report.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_report.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 311,
+            "modifiedTime": 1548633516323,
+            "changeTime": 1548633516323,
+            "contentHash": "4491e506ec3e2b65fcfae1a85b3f25fad3b9cf59",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_schedule.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_schedule.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 423,
+            "modifiedTime": 1548633516325,
+            "changeTime": 1548633516325,
+            "contentHash": "8ca1c16eb541dcce041550de31f5c03a9eda5caf",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_selection.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_selection.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 317,
+            "modifiedTime": 1548633516326,
+            "changeTime": 1548633516326,
+            "contentHash": "c0deef34824d5cd2b5b6281c807d0e4bd55b62ee",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_sku.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_sku.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 408,
+            "modifiedTime": 1548633516328,
+            "changeTime": 1548633516328,
+            "contentHash": "ce71585b7e2f97cf516d1467bb32a6698a0bcb06",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_stage_id.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_stage_id.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 315,
+            "modifiedTime": 1548633516330,
+            "changeTime": 1548633516330,
+            "contentHash": "08928ef5538b94f31d398dbc00bf121057d68cd7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_total_price.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_total_price.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 321,
+            "modifiedTime": 1548633516331,
+            "changeTime": 1548633516331,
+            "contentHash": "2debbcb1f1bd30efc6bebca78b6468123eaaf135",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_update.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_update.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 311,
+            "modifiedTime": 1548633516333,
+            "changeTime": 1548633516333,
+            "contentHash": "25561f61bfdd35bccd8deb2fddcbee6d0fa90f54",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_view.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US\\product_view.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 411,
+            "modifiedTime": 1548633516335,
+            "changeTime": 1548633516335,
+            "contentHash": "b56a868e1ed8086d8d24770b157816aad7bcbc01",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\Case-en_US.objectTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\Case-en_US.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 993,
+            "modifiedTime": 1548633516397,
+            "changeTime": 1548633516397,
+            "contentHash": "9f6bfc7b21c5964959cb17a2ba99b80c6caafe58",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_access.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_access.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 322,
+            "modifiedTime": 1548633516398,
+            "changeTime": 1548633516398,
+            "contentHash": "3c33907f5094a8dd03e5edef1b1938c46139b67c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_access_level.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_access_level.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 334,
+            "modifiedTime": 1548633516400,
+            "changeTime": 1548633516400,
+            "contentHash": "e2e42da1f967ddaa1f877a5b66fe014e45a2720a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_account.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_account.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 324,
+            "modifiedTime": 1548633516402,
+            "changeTime": 1548633516402,
+            "contentHash": "15b59bcbac29ca827be55a5ea45d9eef7271e292",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_alert.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_alert.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 320,
+            "modifiedTime": 1548633516404,
+            "changeTime": 1548633516404,
+            "contentHash": "b3532142c7a0a2ab247fb237f606cb9c7e3dfc54",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_article.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_article.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 324,
+            "modifiedTime": 1548633516405,
+            "changeTime": 1548633516405,
+            "contentHash": "440f46e2f75877a06295d6f71a6d1514fdbd6153",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_article_id.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_article_id.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 330,
+            "modifiedTime": 1548633516407,
+            "changeTime": 1548633516407,
+            "contentHash": "7834f314f9ff56d1df924829f02e4ae7ddc3eb8a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_asset.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_asset.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 320,
+            "modifiedTime": 1548633516409,
+            "changeTime": 1548633516409,
+            "contentHash": "8f5f58920b4ad7bf45e37d82692c674004e71f0c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_assignment_rule.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_assignment_rule.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 340,
+            "modifiedTime": 1548633516410,
+            "changeTime": 1548633516410,
+            "contentHash": "f1ab2face1208016ab5c53b2e77e7865805dd8be",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_capture.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_capture.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 324,
+            "modifiedTime": 1548633516411,
+            "changeTime": 1548633516411,
+            "contentHash": "0c7710a062bc5a516b83d89bc2b5076c4be3f15b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_capture_information.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_capture_information.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 348,
+            "modifiedTime": 1548633516412,
+            "changeTime": 1548633516412,
+            "contentHash": "71bdd658d1425278e4c0583efeb14cccb03bcfc4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_capture_page.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_capture_page.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 334,
+            "modifiedTime": 1548633516414,
+            "changeTime": 1548633516414,
+            "contentHash": "41fe69188fec92ed462f88ef5509ea38d24c7e04",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_close.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_close.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 320,
+            "modifiedTime": 1548633516415,
+            "changeTime": 1548633516415,
+            "contentHash": "22ce6e25648133786661024e6a4a263059452f37",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_closed.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_closed.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 322,
+            "modifiedTime": 1548633516416,
+            "changeTime": 1548633516416,
+            "contentHash": "d600389234ddd5217e7d53fd29394fe4e1d213d6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_closure.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_closure.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 324,
+            "modifiedTime": 1548633516418,
+            "changeTime": 1548633516418,
+            "contentHash": "4d7e4ac79c97684dfb61b1a8868d41675026491b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_comment.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_comment.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 441,
+            "modifiedTime": 1548633516420,
+            "changeTime": 1548633516420,
+            "contentHash": "c940da7bf5cc2aa97c68566605c8f9f7aaea9201",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_comment_id.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_comment_id.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 330,
+            "modifiedTime": 1548633516422,
+            "changeTime": 1548633516422,
+            "contentHash": "7086447c9f7b39b8c60be019b7a5cf4fe1d9dd12",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_comment_information.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_comment_information.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 348,
+            "modifiedTime": 1548633516423,
+            "changeTime": 1548633516423,
+            "contentHash": "7ac2d965b5b57b048b716b7d79dccf493cf67ea3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_company.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_company.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 324,
+            "modifiedTime": 1548633516424,
+            "changeTime": 1548633516424,
+            "contentHash": "8fa8c080b58943e1085b7dbd944f3cacc1c1ecf2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_contact.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_contact.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 324,
+            "modifiedTime": 1548633516425,
+            "changeTime": 1548633516425,
+            "contentHash": "475adea472b7316cc62ee0a7eb93cd6f88edc0b4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_contact_role.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_contact_role.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 334,
+            "modifiedTime": 1548633516427,
+            "changeTime": 1548633516427,
+            "contentHash": "69386c5b0ada1b188883bc5766a8b07b0213629c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_created_date.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_created_date.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 334,
+            "modifiedTime": 1548633516428,
+            "changeTime": 1548633516428,
+            "contentHash": "c02553536385d3ae7dce295ae2f35d02fce2cd41",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_creator.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_creator.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 324,
+            "modifiedTime": 1548633516429,
+            "changeTime": 1548633516429,
+            "contentHash": "c251dbe5ac88ed395a3a5d2f942a5ce7b0d879ca",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_currency.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_currency.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 326,
+            "modifiedTime": 1548633516431,
+            "changeTime": 1548633516431,
+            "contentHash": "e70cc07bac83daf9b3dbf0d5f7df63c80da8fcfd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_custom_field.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_custom_field.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 456,
+            "modifiedTime": 1548633516432,
+            "changeTime": 1548633516432,
+            "contentHash": "364bc9fb939e657941565feaa6b917ce50badc0b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_description.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_description.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 332,
+            "modifiedTime": 1548633516433,
+            "changeTime": 1548633516433,
+            "contentHash": "d82419529a6938e2d162076b297e4e05229a608e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_detail.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_detail.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 438,
+            "modifiedTime": 1548633516435,
+            "changeTime": 1548633516435,
+            "contentHash": "40d0d82d89079f8bd331b644d8f2e409e9dd1e36",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_detail_link.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_detail_link.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 332,
+            "modifiedTime": 1548633516437,
+            "changeTime": 1548633516437,
+            "contentHash": "52d370a8b91731823913aa7f7a77c07d618ebd16",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_division.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_division.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 326,
+            "modifiedTime": 1548633516439,
+            "changeTime": 1548633516439,
+            "contentHash": "5880c0998085e208ae3134df46d9ac50d2211d81",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_edit.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_edit.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 318,
+            "modifiedTime": 1548633516440,
+            "changeTime": 1548633516440,
+            "contentHash": "33a099cc96157a8e5265777a1abe04f9fd254ade",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_email.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_email.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 435,
+            "modifiedTime": 1548633516441,
+            "changeTime": 1548633516441,
+            "contentHash": "f44b69a35f50bb8f519cd11abd157f0d4791fe47",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_feed.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_feed.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 318,
+            "modifiedTime": 1548633516443,
+            "changeTime": 1548633516443,
+            "contentHash": "abf9bfdecb46476bc73048a2c309e01849b51c4b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_field.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_field.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 435,
+            "modifiedTime": 1548633516444,
+            "changeTime": 1548633516444,
+            "contentHash": "5c7d2ae12d27276a52353ef3741c1c082ddeb3f8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_history.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_history.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 324,
+            "modifiedTime": 1548633516445,
+            "changeTime": 1548633516445,
+            "contentHash": "d24e659f8388231cb28b627ed5ba457a809e0a48",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_history_id.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_history_id.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 330,
+            "modifiedTime": 1548633516446,
+            "changeTime": 1548633516446,
+            "contentHash": "3743487bb613238d37fbacb55a16a622caadd57d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_history_info.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_history_info.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 334,
+            "modifiedTime": 1548633516448,
+            "changeTime": 1548633516448,
+            "contentHash": "39cd5ad156df82ed3c45cc308759112fa07b9cc1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_history_owner.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_history_owner.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 336,
+            "modifiedTime": 1548633516449,
+            "changeTime": 1548633516449,
+            "contentHash": "0ceb4004017430e6c0ce6fa91fe2963af724b7b2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_history_report.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_history_report.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 338,
+            "modifiedTime": 1548633516451,
+            "changeTime": 1548633516451,
+            "contentHash": "09a547616cc7efa59590ec10446fe5ebea8f3fc6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_history_status.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_history_status.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 338,
+            "modifiedTime": 1548633516452,
+            "changeTime": 1548633516452,
+            "contentHash": "2e60b4384e042331e4a70163427e920c0a905cc4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_id.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_id.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 314,
+            "modifiedTime": 1548633516454,
+            "changeTime": 1548633516454,
+            "contentHash": "759647b82d293e2719b9a9a689485194496f8268",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_information.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_information.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 332,
+            "modifiedTime": 1548633516456,
+            "changeTime": 1548633516456,
+            "contentHash": "3174fca95f7ae4664a3491cfed5f24a020023fc7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_last_modified.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_last_modified.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 336,
+            "modifiedTime": 1548633516458,
+            "changeTime": 1548633516458,
+            "contentHash": "8dae1a187fe8e604525ba41a2064c95b9b0fc014",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_lifecycle.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_lifecycle.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 328,
+            "modifiedTime": 1548633516459,
+            "changeTime": 1548633516459,
+            "contentHash": "fd6f5626f04e57f78106697a769f643d7b20d1a5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_lifecycle_report.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_lifecycle_report.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 342,
+            "modifiedTime": 1548633516460,
+            "changeTime": 1548633516460,
+            "contentHash": "c6853d99f72157c13023537fada5dffc17f09848",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_list.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_list.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 318,
+            "modifiedTime": 1548633516462,
+            "changeTime": 1548633516462,
+            "contentHash": "263fafedbdb56f78e383e66541f43c0e6f32a101",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_milestone.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_milestone.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 447,
+            "modifiedTime": 1548633516463,
+            "changeTime": 1548633516463,
+            "contentHash": "063ef2800e2db2c2885d3c4f63cba691baa4cf7a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_name.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_name.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 318,
+            "modifiedTime": 1548633516465,
+            "changeTime": 1548633516465,
+            "contentHash": "b8aa9c769ac2f6767ce266d9b2591dc9a502f9d3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_number.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_number.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 322,
+            "modifiedTime": 1548633516466,
+            "changeTime": 1548633516466,
+            "contentHash": "39a6860fc619e9e984052919659056b4d63f8d4e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_origin.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_origin.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 322,
+            "modifiedTime": 1548633516467,
+            "changeTime": 1548633516467,
+            "contentHash": "8fe6fa8545cd6806294bb6539b99fc12495ecd6d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_owner.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_owner.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 320,
+            "modifiedTime": 1548633516468,
+            "changeTime": 1548633516468,
+            "contentHash": "697c4ced3713e68101a8b95f2db130833a9909cd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_owner_alias.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_owner_alias.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 332,
+            "modifiedTime": 1548633516471,
+            "changeTime": 1548633516471,
+            "contentHash": "dd3495cc88907937ba999e488b75a8d5f8329f45",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_owner_role.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_owner_role.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 330,
+            "modifiedTime": 1548633516472,
+            "changeTime": 1548633516472,
+            "contentHash": "e312ee09950b6a0f74732050a4f68ec338d18607",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_phone.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_phone.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 320,
+            "modifiedTime": 1548633516474,
+            "changeTime": 1548633516474,
+            "contentHash": "a78b33e5699333c8f2c76ca7de70dc80833cd839",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_picklist.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_picklist.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 444,
+            "modifiedTime": 1548633516476,
+            "changeTime": 1548633516476,
+            "contentHash": "dd697921fac0e8d63f7245b4ae9abd142b6b25df",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_priority.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_priority.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 326,
+            "modifiedTime": 1548633516477,
+            "changeTime": 1548633516477,
+            "contentHash": "931e93202f675e5e6bf1408b5dc81a067f5af8a6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_queue.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_queue.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 435,
+            "modifiedTime": 1548633516478,
+            "changeTime": 1548633516478,
+            "contentHash": "bad3f12367f0577ba12eac1e0006e22ca75f555e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_reason.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_reason.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 322,
+            "modifiedTime": 1548633516480,
+            "changeTime": 1548633516480,
+            "contentHash": "bc8382cc9ff3b78c13b32892ecd3ff076c0f3d6e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_record_type.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_record_type.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 453,
+            "modifiedTime": 1548633516481,
+            "changeTime": 1548633516481,
+            "contentHash": "560a3379709b267b66656e833809f0dbea56f97c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_record_type_id.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_record_type_id.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 338,
+            "modifiedTime": 1548633516482,
+            "changeTime": 1548633516482,
+            "contentHash": "e08eb700597b5fed840efc9aaa6ba970227a8818",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_report.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_report.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 438,
+            "modifiedTime": 1548633516483,
+            "changeTime": 1548633516483,
+            "contentHash": "77983585946cced661ee08e852a3a8132c476c7e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_solution.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_solution.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 326,
+            "modifiedTime": 1548633516485,
+            "changeTime": 1548633516485,
+            "contentHash": "fb239b99cc057d5f42979115bf923049734a62d3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_solution_id.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_solution_id.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 332,
+            "modifiedTime": 1548633516487,
+            "changeTime": 1548633516487,
+            "contentHash": "eb11a8e7659c30765a072cd005a96851bcb24397",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_source.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_source.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 322,
+            "modifiedTime": 1548633516488,
+            "changeTime": 1548633516488,
+            "contentHash": "01879f4bbe60a2dfeaf8de78f9016ffefa9344ac",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_splash_page.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_splash_page.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 332,
+            "modifiedTime": 1548633516490,
+            "changeTime": 1548633516490,
+            "contentHash": "e0339cb90354bd162cfd0eef0da823073cf2a9a5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_stage_id.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_stage_id.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 326,
+            "modifiedTime": 1548633516491,
+            "changeTime": 1548633516491,
+            "contentHash": "007408c2e7beaaa19ace140816f01537da22903f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_status.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_status.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 322,
+            "modifiedTime": 1548633516493,
+            "changeTime": 1548633516493,
+            "contentHash": "cdec29da19266c3d1f29d666462748e8764369c0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_subject.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_subject.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 324,
+            "modifiedTime": 1548633516494,
+            "changeTime": 1548633516494,
+            "contentHash": "f0489f45ee7bd4c85bafb685c0ca8cf2b266d005",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_team.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_team.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 432,
+            "modifiedTime": 1548633516495,
+            "changeTime": 1548633516495,
+            "contentHash": "8ba6daa7675ca292deb7bec4fa7b13d57b660afb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_team_member.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_team_member.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 453,
+            "modifiedTime": 1548633516497,
+            "changeTime": 1548633516497,
+            "contentHash": "8ccd20324dff6b09ac33d065cf563efc0deb19b0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_team_member_role.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_team_member_role.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 468,
+            "modifiedTime": 1548633516498,
+            "changeTime": 1548633516498,
+            "contentHash": "b17e7aa409a7081b38789d87546188d4bae67b6e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_team_record.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_team_record.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 453,
+            "modifiedTime": 1548633516499,
+            "changeTime": 1548633516499,
+            "contentHash": "9accd0c692ff672bd30ad9b034acfb44f156ba40",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_type.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_type.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 318,
+            "modifiedTime": 1548633516500,
+            "changeTime": 1548633516500,
+            "contentHash": "66f788e1da88b11f98008d87cba6b4702d453b50",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_view.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\case_view.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 432,
+            "modifiedTime": 1548633516502,
+            "changeTime": 1548633516502,
+            "contentHash": "9fd383da7e212f21279ae8d22112df8644b6d639",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\cases_detail_page.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\cases_detail_page.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 334,
+            "modifiedTime": 1548633516504,
+            "changeTime": 1548633516504,
+            "contentHash": "fce9b2c4100732634042a28862d6113b57fa5928",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\cases_tab.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\cases_tab.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 318,
+            "modifiedTime": 1548633516506,
+            "changeTime": 1548633516506,
+            "contentHash": "01706272eaa589f5255099985edecc1a388fed98",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\child_case.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\child_case.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 439,
+            "modifiedTime": 1548633516507,
+            "changeTime": 1548633516507,
+            "contentHash": "6ee92ee1250810438d0d21f99fd63cc04eeb3178",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\feed_filter_case_note.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\feed_filter_case_note.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 444,
+            "modifiedTime": 1548633516508,
+            "changeTime": 1548633516508,
+            "contentHash": "31f6fb62da1e3315250ccab8fd8dae5ca611e5f9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\parent_case.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\parent_case.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 438,
+            "modifiedTime": 1548633516510,
+            "changeTime": 1548633516510,
+            "contentHash": "9c99578fa546c8d1dcfa1a7a51a59e8ddb791d6d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\parent_case_id.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\parent_case_id.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 328,
+            "modifiedTime": 1548633516512,
+            "changeTime": 1548633516512,
+            "contentHash": "32e450f64dd5fadc43d6b38827855363b5e87526",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\publisher_private_answer.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\publisher_private_answer.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 339,
+            "modifiedTime": 1548633516513,
+            "changeTime": 1548633516513,
+            "contentHash": "4814ea070d44ab37d7ee8b32310a7426cd4da7c7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\publisher_view_details.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\publisher_view_details.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 339,
+            "modifiedTime": 1548633516515,
+            "changeTime": 1548633516515,
+            "contentHash": "57871c61dc9ceb9b1fc53699e598a9247de502a0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\Date_Due__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\Date_Due__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1548633516516,
+            "changeTime": 1548633516516,
+            "contentHash": "c76dd0b978ec8976db4c028d3009bb4fc86702e2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\Date_Reported__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\Date_Reported__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 214,
+            "modifiedTime": 1548633516517,
+            "changeTime": 1548633516517,
+            "contentHash": "4bae36bf178afba05afe1db25769698eab333ba4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\Equipment__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\Equipment__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 279,
+            "modifiedTime": 1548633516518,
+            "changeTime": 1548633516518,
+            "contentHash": "6a4328b8692194c13a687c1d3bb2de51586a4b04",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\Vehicle__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US\\Vehicle__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 260,
+            "modifiedTime": 1548633516520,
+            "changeTime": 1548633516520,
+            "contentHash": "86cb628bb0d6dc66468000f361dde2e77ad86691",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Product-en_US",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548633516334,
+            "changeTime": 1548633516334,
+            "contentHash": "0d941951e7d225b6e27d40547ca12b800be7cfa8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548633516395,
+            "changeTime": 1548633516395,
+            "contentHash": "8d5a1e241af3fa7d388f8a614c78fd5fdd5b6307",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objectTranslations\\Case-en_US",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548633516519,
+            "changeTime": 1548633516519,
+            "contentHash": "5c4570a28602541c05c5f5294cee3259cd3c3e04",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548650493338,
+            "changeTime": 1548650493338,
+            "contentHash": "3def287332dbe9a1c5ce14f16d2873f02752d023",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548694577611,
+            "changeTime": 1548694577634,
+            "contentHash": "f99adff6729c65fdac7e3354b6d5fc8e1a857019"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548634533034,
+            "changeTime": 1548634533034,
+            "contentHash": "849e5cdfac533ac925cc879136904a760227541c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Case",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Case",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548634532941,
+            "changeTime": 1548634532941,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Case\\fields",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Case\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548649269856,
+            "changeTime": 1548649269856,
+            "contentHash": "974cc4e07065954b04fc25cec243f2681ebf6353",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Product2",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Product2",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548634532954,
+            "changeTime": 1548634532954,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Product2\\fields",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Product2\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548634532964,
+            "changeTime": 1548634532964,
+            "contentHash": "05292088605a12ec941405d14676a8b4ad809aaa",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548634533015,
+            "changeTime": 1548634533015,
+            "contentHash": "6850ef1b1f81e7e4a6324e527830ff4ad7caf610",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548634533014,
+            "changeTime": 1548634533014,
+            "contentHash": "a793e8cba257aeee71da6e6dd2bdc4610671d00a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\listViews",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548634533016,
+            "changeTime": 1548634533016,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Work_Part__c",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Work_Part__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548634533036,
+            "changeTime": 1548634533036,
+            "contentHash": "c6ad5332af9634ea830ce61f381ca3b6fda2545a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Work_Part__c\\fields",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Work_Part__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548634533042,
+            "changeTime": 1548634533042,
+            "contentHash": "8e86401bfbac8fef64f72e3fcfd39112c1ee3df9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\triggers",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548634533048,
+            "changeTime": 1548634533048,
+            "contentHash": "f16f26a99505c5f97c8bef250ebbf0d6d2c5e763",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\classes\\MaintenanceRequestHelper.cls",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\classes\\MaintenanceRequestHelper.cls",
+            "isDirectory": false,
+            "size": 6224,
+            "modifiedTime": 1548686990029,
+            "changeTime": 1548686990029,
+            "contentHash": "f9b518f6c71ae8e6fae80ecac1c73e6b35e48e87",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\classes\\MaintenanceRequestHelper.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\classes\\MaintenanceRequestHelper.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1548634532891,
+            "changeTime": 1548634532891,
+            "contentHash": "b2f04e173ae3fcb8d002e0a2c63d07860dbf1d04",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\classes\\WarehouseCalloutService.cls",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\classes\\WarehouseCalloutService.cls",
+            "isDirectory": false,
+            "size": 2406,
+            "modifiedTime": 1548693874601,
+            "changeTime": 1548693874601,
+            "contentHash": "32b92a7268d6881c466bae2af044d0902e4ac576",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\classes\\WarehouseCalloutService.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\classes\\WarehouseCalloutService.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1548634532895,
+            "changeTime": 1548634532895,
+            "contentHash": "b2f04e173ae3fcb8d002e0a2c63d07860dbf1d04",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\classes\\WarehouseCalloutServiceMock.cls",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\classes\\WarehouseCalloutServiceMock.cls",
+            "isDirectory": false,
+            "size": 675,
+            "modifiedTime": 1548688090606,
+            "changeTime": 1548688090606,
+            "contentHash": "a67df7f133c3fcbb985f1fece01366ce69a9e0e3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\classes\\WarehouseCalloutServiceMock.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\classes\\WarehouseCalloutServiceMock.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1548634532900,
+            "changeTime": 1548634532900,
+            "contentHash": "b2f04e173ae3fcb8d002e0a2c63d07860dbf1d04",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\classes\\WarehouseCalloutServiceTest.cls",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\classes\\WarehouseCalloutServiceTest.cls",
+            "isDirectory": false,
+            "size": 2280,
+            "modifiedTime": 1548693843883,
+            "changeTime": 1548693843883,
+            "contentHash": "bd9d0fc7f13bc823e678a882458633abe4ca03ab",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\classes\\WarehouseCalloutServiceTest.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\classes\\WarehouseCalloutServiceTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1548634532905,
+            "changeTime": 1548634532905,
+            "contentHash": "b2f04e173ae3fcb8d002e0a2c63d07860dbf1d04",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\classes\\WarehouseSyncSchedule.cls",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\classes\\WarehouseSyncSchedule.cls",
+            "isDirectory": false,
+            "size": 296,
+            "modifiedTime": 1548688601230,
+            "changeTime": 1548687927707,
+            "contentHash": "bff8b4c8bba746899cd8ba2f350a546e9317efd3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\classes\\WarehouseSyncSchedule.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\classes\\WarehouseSyncSchedule.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1548634532910,
+            "changeTime": 1548634532910,
+            "contentHash": "b2f04e173ae3fcb8d002e0a2c63d07860dbf1d04",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\layouts\\Product2-Product %28HowWeRoll%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\layouts\\Product2-Product %28HowWeRoll%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 4479,
+            "modifiedTime": 1548634532923,
+            "changeTime": 1548634532923,
+            "contentHash": "a6b51f9db2119fae122600d47aff4e1f26176696",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\layouts\\Vehicle__c-Vehicle Layout.layout-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\layouts\\Vehicle__c-Vehicle Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 6421,
+            "modifiedTime": 1548634532928,
+            "changeTime": 1548634532928,
+            "contentHash": "4631355b68c65aa2befd02fa275f9c9561dc29ea",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\layouts\\Work_Part__c-Work Part Layout.layout-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\layouts\\Work_Part__c-Work Part Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2219,
+            "modifiedTime": 1548634532934,
+            "changeTime": 1548634532934,
+            "contentHash": "2b7b1e67f069f7480bf0f3d0a9b9ad8333db89a7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Case\\fields\\Date_Due__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Case\\fields\\Date_Due__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 396,
+            "modifiedTime": 1548634532942,
+            "changeTime": 1548634532942,
+            "contentHash": "e1ef1626ad2c26bda3513477fde4c28624b007a4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Case\\fields\\Date_Reported__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Case\\fields\\Date_Reported__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 406,
+            "modifiedTime": 1548634532944,
+            "changeTime": 1548634532944,
+            "contentHash": "1429d7cdb7534807a0b08a408dd2860680cb4e80",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Case\\fields\\Equipment__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Case\\fields\\Equipment__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 600,
+            "modifiedTime": 1548634532945,
+            "changeTime": 1548634532945,
+            "contentHash": "3c12744acedec8a318f4ff324f7fdb4a75d41fb9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Case\\fields\\Vehicle__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Case\\fields\\Vehicle__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 583,
+            "modifiedTime": 1548634532947,
+            "changeTime": 1548634532947,
+            "contentHash": "0ae7ba8f3227e2d8ea34545eb4ee5939d53b4950",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Product2\\fields\\Cost__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Product2\\fields\\Cost__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 355,
+            "modifiedTime": 1548634532956,
+            "changeTime": 1548634532956,
+            "contentHash": "85c1a9870a8971471579fe9a5b9d6efd046c1dc7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Product2\\fields\\Current_Inventory__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Product2\\fields\\Current_Inventory__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 406,
+            "modifiedTime": 1548634532957,
+            "changeTime": 1548634532957,
+            "contentHash": "ab57100a5a20dbed64a75d2f18f53c870055d3c9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Product2\\fields\\Lifespan_Months__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Product2\\fields\\Lifespan_Months__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 402,
+            "modifiedTime": 1548634532960,
+            "changeTime": 1548634532960,
+            "contentHash": "175d1834cc1bc6699bdbb9daba6163055862d8ad",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Product2\\fields\\Maintenance_Cycle__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Product2\\fields\\Maintenance_Cycle__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 505,
+            "modifiedTime": 1548634532961,
+            "changeTime": 1548634532961,
+            "contentHash": "71114caf7cb44a0aea0b4fa3b1b10719e81aa0a2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Product2\\fields\\Replacement_Part__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Product2\\fields\\Replacement_Part__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 336,
+            "modifiedTime": 1548634532963,
+            "changeTime": 1548634532963,
+            "contentHash": "77994a2e934117790b41a183b03cdb15daa5763d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Product2\\fields\\Warehouse_SKU__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Product2\\fields\\Warehouse_SKU__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 369,
+            "modifiedTime": 1548634532964,
+            "changeTime": 1548634532964,
+            "contentHash": "7c3a4bc8b723f894ea88336601d0a73b2f17c812",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Air_Conditioner__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Air_Conditioner__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 375,
+            "modifiedTime": 1548634532988,
+            "changeTime": 1548634532988,
+            "contentHash": "979f5fa9dbc4dcb239a53ef44b5be686b9ea5f40",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Awning__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Awning__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 965,
+            "modifiedTime": 1548634532989,
+            "changeTime": 1548634532989,
+            "contentHash": "9b9b54a6dc5a2a15abfac2a362663a1223fd2bb6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Backup_Camera_Monitor__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Backup_Camera_Monitor__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 387,
+            "modifiedTime": 1548634532991,
+            "changeTime": 1548634532991,
+            "contentHash": "8054b8e34cafc244f2c80b60fdd6a7cf687f6f6b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Bathrooms__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Bathrooms__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 430,
+            "modifiedTime": 1548634532994,
+            "changeTime": 1548634532994,
+            "contentHash": "11a0d315e098316546d7272a79868a3f19e023d5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Bathroom_Hookup__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Bathroom_Hookup__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1026,
+            "modifiedTime": 1548634532992,
+            "changeTime": 1548634532992,
+            "contentHash": "6303669a8c074d28930705870d7736ea08dc741a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Bedrooms__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Bedrooms__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 428,
+            "modifiedTime": 1548634532995,
+            "changeTime": 1548634532995,
+            "contentHash": "d08c4cbcd5ad0b3c1654cf23b4fdc9f304661c1d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Fancy_Sound_System__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Fancy_Sound_System__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 381,
+            "modifiedTime": 1548634532996,
+            "changeTime": 1548634532996,
+            "contentHash": "53e2e2c9672e9b1c11e1107abc68af33b540f599",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Generator__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Generator__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 363,
+            "modifiedTime": 1548634532998,
+            "changeTime": 1548634532998,
+            "contentHash": "612456f5a819fdd11b7af9ce8b15c9b7b84a9312",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Levelers__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Levelers__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 812,
+            "modifiedTime": 1548634532999,
+            "changeTime": 1548634532999,
+            "contentHash": "b907c3d31ab7b06e3d36cb2093839816c9d48de1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\License_Plate__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\License_Plate__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 411,
+            "modifiedTime": 1548634533000,
+            "changeTime": 1548634533000,
+            "contentHash": "462e593c665cece410e08fecaf37db7adfe2f6db",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Make__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Make__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 393,
+            "modifiedTime": 1548634533002,
+            "changeTime": 1548634533002,
+            "contentHash": "e7c2696c2ccb1f05257c6791407658dccb4a2700",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Model__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Model__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 395,
+            "modifiedTime": 1548634533003,
+            "changeTime": 1548634533003,
+            "contentHash": "7e6edec62c55287e37b37e2d152aa052239c2b30",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Power__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Power__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1038,
+            "modifiedTime": 1548634533004,
+            "changeTime": 1548634533004,
+            "contentHash": "19810fea4b3b6200985723aede126b77c7afbde8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Propane_Tank__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Propane_Tank__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 369,
+            "modifiedTime": 1548634533006,
+            "changeTime": 1548634533006,
+            "contentHash": "227ceb1b9cae033217bc28ef0a11cb6df90d57b4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Recommended_Passengers__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Recommended_Passengers__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 456,
+            "modifiedTime": 1548634533007,
+            "changeTime": 1548634533007,
+            "contentHash": "2b103c84986c0aacd9d6027105c7afe6f8e4e878",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Roof_Mounted_Antenna__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Roof_Mounted_Antenna__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 385,
+            "modifiedTime": 1548634533009,
+            "changeTime": 1548634533009,
+            "contentHash": "31991691259d6121cdbde90664f3c0c65690bf7d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Shower__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Shower__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 357,
+            "modifiedTime": 1548634533010,
+            "changeTime": 1548634533010,
+            "contentHash": "d545b5c6d7681d41d1b71fca77a8b11301573e4d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Tub__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Tub__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 351,
+            "modifiedTime": 1548634533012,
+            "changeTime": 1548634533012,
+            "contentHash": "30e7e5794aa1bab865dcf811282c7eb4f25f829b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Type__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Type__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 970,
+            "modifiedTime": 1548634533013,
+            "changeTime": 1548634533013,
+            "contentHash": "4da9bbc7b0fe6c6c9c7ab4a4bfc12f0942f9f181",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\VIN_Number__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\VIN_Number__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 405,
+            "modifiedTime": 1548634533015,
+            "changeTime": 1548634533015,
+            "contentHash": "8d8cae81f3a86d1a38a9c910def9097ac122fd63",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1548634533016,
+            "changeTime": 1548634533016,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\Vehicle__c.object-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Vehicle__c\\Vehicle__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2053,
+            "modifiedTime": 1548634532986,
+            "changeTime": 1548634532986,
+            "contentHash": "69d08b4036ebe834ec63e0aa77c034aa05b7cb3f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Work_Part__c\\fields\\Equipment__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Work_Part__c\\fields\\Equipment__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 914,
+            "modifiedTime": 1548634533038,
+            "changeTime": 1548634533038,
+            "contentHash": "40d20f03b1e93af86a2a299e091c523c8d8a9c01",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Work_Part__c\\fields\\Maintenance_Request__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Work_Part__c\\fields\\Maintenance_Request__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 659,
+            "modifiedTime": 1548634533039,
+            "changeTime": 1548634533039,
+            "contentHash": "2a31938af4d1e15b3ada7f57cc1aa7cd3cd6c03f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Work_Part__c\\fields\\Quantity__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Work_Part__c\\fields\\Quantity__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 429,
+            "modifiedTime": 1548634533043,
+            "changeTime": 1548634533043,
+            "contentHash": "e1f1fc6ce562e0b0429734d7106bafe73a3fab5a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Work_Part__c\\Work_Part__c.object-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Work_Part__c\\Work_Part__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2117,
+            "modifiedTime": 1548634533036,
+            "changeTime": 1548634533036,
+            "contentHash": "6cb89bc074fa210ad2b9c31809dd1f64afb71990",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\triggers\\MaintenanceRequest.trigger",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\triggers\\MaintenanceRequest.trigger",
+            "isDirectory": false,
+            "size": 535,
+            "modifiedTime": 1548643359894,
+            "changeTime": 1548643359894,
+            "contentHash": "6ffe25be9fe37095294d75d3573d632751d9a41f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\triggers\\MaintenanceRequest.trigger-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\triggers\\MaintenanceRequest.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 178,
+            "modifiedTime": 1548634533047,
+            "changeTime": 1548634533047,
+            "contentHash": "2115b531a3bfa715698b872335a50aa51f03682b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\standardValueSets\\CaseType.standardValueSet-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\standardValueSets\\CaseType.standardValueSet-meta.xml",
+            "isDirectory": false,
+            "size": 1189,
+            "modifiedTime": 1548649269851,
+            "changeTime": 1548649269851,
+            "contentHash": "bf6a45ddae0a7edc8d7af9cb3923c22b206ae418",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Case\\fields\\Type.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\objects\\Case\\fields\\Type.field-meta.xml",
+            "isDirectory": false,
+            "size": 298,
+            "modifiedTime": 1548649269857,
+            "changeTime": 1548649269857,
+            "contentHash": "6cba81d43fa842e8b9303ab2a3e8baace3a497c3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\standardValueSets",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\standardValueSets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548649269851,
+            "changeTime": 1548649269851,
+            "contentHash": "f43ca78bd34f6d580b954fa6a9a250143d970263",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\layouts\\Case-Case Layout.layout-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\layouts\\Case-Case Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 12675,
+            "modifiedTime": 1548650313313,
+            "changeTime": 1548650313313,
+            "contentHash": "2528e35d6e79396b0ca2bb122de9db823b0d7406",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\layouts\\Product2-Product Layout.layout-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\layouts\\Product2-Product Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3423,
+            "modifiedTime": 1548650313304,
+            "changeTime": 1548650313304,
+            "contentHash": "1c5d1bc9bb8ca214f61a432cab46366f1ec6ff0f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\tabs\\Vehicle__c.tab-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\tabs\\Vehicle__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 220,
+            "modifiedTime": 1548650313316,
+            "changeTime": 1548650313316,
+            "contentHash": "8f92a3af7f3640e1db0b71f01dd8e122d6a33d98",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 9998,
+            "modifiedTime": 1548650313325,
+            "changeTime": 1548650313325,
+            "contentHash": "2a3b30c947ab53f18e820e79ba3bfe00966375d3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 23283,
+            "modifiedTime": 1548650313338,
+            "changeTime": 1548650313338,
+            "contentHash": "2575710d7d853f09526a64486951a86e75cae54f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 9660,
+            "modifiedTime": 1548650313351,
+            "changeTime": 1548650313351,
+            "contentHash": "dd6c88f5ca8d09454a75d1d318e94187eec82a49",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 9660,
+            "modifiedTime": 1548650313363,
+            "changeTime": 1548650313363,
+            "contentHash": "dd6c88f5ca8d09454a75d1d318e94187eec82a49",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548650313315,
+            "changeTime": 1548650313315,
+            "contentHash": "c959a3ccae52babb7a73bcc20d132e67d3d16fd5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548650313362,
+            "changeTime": 1548650313362,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\classes\\MaintenanceRequestTest.cls",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\classes\\MaintenanceRequestTest.cls",
+            "isDirectory": false,
+            "size": 4501,
+            "modifiedTime": 1548686824279,
+            "changeTime": 1548686824279,
+            "contentHash": "a1764b5d0adea74f6966ca968e71ac9a695f0306",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\classes\\MaintenanceRequestTest.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\classes\\MaintenanceRequestTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1548650493339,
+            "changeTime": 1548650493339,
+            "contentHash": "118cb24f31d8555fe248d8716018c722bc01da37",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\remoteSiteSettings\\Warehouse.remoteSite-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\remoteSiteSettings\\Warehouse.remoteSite-meta.xml",
+            "isDirectory": false,
+            "size": 275,
+            "modifiedTime": 1548690223987,
+            "changeTime": 1548690223987,
+            "contentHash": "4f8b7d49cd44fc37aea45ac94356d4c4bb2f9861",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\remoteSiteSettings",
+        {
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\remoteSiteSettings",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548690223986,
+            "changeTime": 1548690223986,
+            "contentHash": "1387e605226dd394153b4b39d2580b4dfaece5b0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\layouts\\Case-Case %28HowWeRoll%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\rickr\\sfdx\\ApexSpecialistSuperbadge\\force-app\\main\\default\\layouts\\Case-Case %28HowWeRoll%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9123,
+            "modifiedTime": 1548634532919,
+            "changeTime": 1548694577678,
+            "contentHash": "a9d699c037755fe50130447aecafb48c4592b8ce"
+        }
+    ]
+]

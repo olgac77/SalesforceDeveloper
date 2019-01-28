@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="force.apex" timestamp="2019-01-27T21:08:00-08:00" hostname="https://fun-fun-7884-dev-ed.cs22.my.salesforce.com/" tests="1" failures="0"  errors="0"  time="6.18">
+        <properties>
+            <property name="outcome" value="Passed"/>
+            <property name="testsRan" value="1"/>
+            <property name="passing" value="1"/>
+            <property name="failing" value="0"/>
+            <property name="skipped" value="0"/>
+            <property name="passRate" value="100%"/>
+            <property name="failRate" value="0%"/>
+            <property name="testStartTime" value="Jan 27, 2019 9:08 PM"/>
+            <property name="testExecutionTime" value="6.18 s"/>
+            <property name="testTotalTime" value="6.18 s"/>
+            <property name="commandTime" value="16.98 s"/>
+            <property name="hostname" value="https://fun-fun-7884-dev-ed.cs22.my.salesforce.com/"/>
+            <property name="orgId" value="00D17000000522qEAA"/>
+            <property name="username" value="test-w6tb32esshqr@example.com"/>
+            <property name="testRunId" value="70717000013Yxqr"/>
+            <property name="userId" value="00517000002RNT3AAO"/>
+        </properties>
+        <testcase name="testCaseUpdate" classname="MaintenanceRequestTest" time="6.18">
+        </testcase>
+    </testsuite>
+</testsuites>
